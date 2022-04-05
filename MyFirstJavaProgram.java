@@ -1,8 +1,9 @@
 package com.learning.java;
-public class MyFirstJavaProgram {
-    public static void main(string[] args);
+public class MyFirstJavaProgram
+{
+    public static void main(String[]args)
     {
-
+        System.out.println("ShilpaShetty");
     }
-        system.out.println("SHILPA SHETTY")
 }
+
